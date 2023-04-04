@@ -1,1 +1,10 @@
-# level1-vaction-review-study
+# 레벨1 방학 블랙잭, 체스 미션 리뷰 스터디
+
+
+|  | 블랙잭 미션 저장소 ( 기한 : 4월 5일 까지 )| 체스 미션 저장소 |
+| :-----: | :-------------: | :-------: |
+| 헙크 |  |  |
+| 히이로 |  |  |
+| 스플릿 |https://github.com/splitCoding/vacation-level1/tree/blackjack|  |
+| 에밀 |  |  |
+| 폴로 |  |  |
