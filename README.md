@@ -5,6 +5,6 @@
 | :-----: | :-------------: | :-------: | :-------: | :---------: |
 | 헙크      |  |x| |x|
 | 히이로    |  |x| |x|
-| 스플릿    |https://github.com/splitCoding/vacation-level1/tree/blackjack|o| |x|
+| 스플릿    |https://github.com/splitCoding/vacation-level1/pull/1|o| |x|
 | 에밀      |  |x| |x|
 | 폴로      |  |x| |x|
