@@ -6,5 +6,5 @@
 | 헙크      |https://github.com/HubCreator/java-blackjack/pull/2|o|https://github.com/HubCreator/java-chess/pull/1| |
 | 히이로    |https://github.com/MoonJeWoong/woowaVacation-Level1/pull/1|o|https://github.com/MoonJeWoong/woowaVacation-Level1/pull/2|o|
 | 스플릿    |https://github.com/splitCoding/vacation-level1/pull/1|o| |x|
-| 에밀      |https://github.com/CFalws/java-blackjack/pull/1|o| |x|
+| 에밀      |https://github.com/CFalws/java-blackjack/pull/1|o|https://github.com/CFalws/java-chess/pull/1/files |o|
 | 폴로      |https://github.com/green-kong/java-blackjack/pull/1|o| |x|
